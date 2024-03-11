@@ -1,3 +1,14 @@
+# - Python Docstring(주석) 만들기
+# 	- source: python-chatgpt/python_chatgpt/auto_docstring.py
+# 	- import inspect
+# 		- instpect.getsource(fucntion_name)
+# 		- function 코드를 string 으로 반환
+# 	- api: openai
+# 	- model: text-davinci-003
+# 	- prompt
+# 		- Provide python docstring for the following function
+
+
 import inspect
 import openai
 import os
