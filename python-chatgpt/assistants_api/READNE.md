@@ -5,6 +5,9 @@
 - https://platform.openai.com/docs/assistants/tools/supported-files
 
 1. 동작 과정
+- code_interpreter: CSV 파일에서 데이터를 추출하고, 데이터를 가공한 후 시각화에 활용
+- retrieval: CSV 파일 내에서 2022년 포춘 1000 기업의 수익 정보를 찾는데 활용
+- : Create a plot based on top 10 of 2022 fortune 1000 companies revenue
 ![image](https://github.com/i-am-shuan/learn-openai/assets/161431602/a059336a-c99f-49ba-b9a9-0fef44b20d23")
 
 2. 실행 결과
