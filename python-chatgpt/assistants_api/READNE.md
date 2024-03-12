@@ -1,5 +1,5 @@
 
-### Assistants API with Code interpreter & Retrieval Tool을 가지고 Image를 만들기
+### Assistants API with Code interpreter & Retrieval Tool 기반 Image(Pliot) 제작 서비스
 이 코드는 OpenAI의 GPT-4와 연동하여 CSV 파일에서 데이터를 추출하고, 이를 바탕으로 상위 10개 기업의 매출을 시각화하는 프로세스를 자동화하는 예제입니다. 이 코드는 데이터 분석 및 시각화 작업을 자동화하며, 특히 대용량 데이터 처리와 복잡한 쿼리에 대응하는 어플리케이션 개발에 유용합니다.
 
 - 코드 해석기(Code Interpreter)를 사용하면 Assistants API를 사용하여 샌드박스 실행 환경에서 Python 코드를 작성하고 실행할 수 있습니다.
